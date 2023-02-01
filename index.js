@@ -1,1 +1,3 @@
-console.log('whatever')
+console.log("whatever");
+
+const x = 1;
